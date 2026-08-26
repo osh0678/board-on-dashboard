@@ -14,7 +14,7 @@ modules:
 
   function:
     - key: resolver
-      handler: index.handler
+      handler: resolvers/index.handler
 
 resources:
   - key: main
