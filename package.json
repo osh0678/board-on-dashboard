@@ -1,5 +1,5 @@
 {
-  "name": "board-on-dashboard",
+  "name": "jira-board-gadget",
   "version": "0.1.0",
   "private": true,
   "description": "View your Jira board directly on your dashboard.",
