@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "description": "View your Jira board directly on your dashboard.",
-  "type": "module",
   "dependencies": {
     "@forge/api": "^5.0.0",
     "@forge/bridge": "^5.0.0",
