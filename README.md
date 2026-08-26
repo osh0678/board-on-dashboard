@@ -1,4 +1,4 @@
-# Board on Dashboard
+# Kanban Board & Wallboard Gadget for Jira
 
 Jira 보드를 대시보드 가젯으로 표시하는 Forge 앱.
 
@@ -32,6 +32,11 @@ src/resolvers/index.js    Jira Agile API 호출 + 컬럼 매핑
 src/frontend/view.jsx     보드 렌더링
 src/frontend/edit.jsx     보드 선택 설정
 ```
+
+## 문서
+
+- [Privacy Policy](docs/PRIVACY.md)
+- [Terms of Service](docs/TERMS.md)
 
 ## 제약 (실측 기반)
 
