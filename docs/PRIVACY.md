@@ -1,3 +1,6 @@
+> **Canonical version:** https://se0ng.dev/legal/privacy/
+> This file is a copy kept alongside the source.
+
 # Privacy Policy — Board on Dashboard
 
 _Last updated: 26 August 2026_
@@ -46,4 +49,3 @@ None. The app makes no external network calls.
 Questions about this policy:
 
 - Email: ping@se0ng.dev
-- GitHub: https://github.com/osh0678/jira-board-gadget/issues
