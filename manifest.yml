@@ -3,7 +3,7 @@ modules:
     - key: board-on-dashboard-gadget
       title: "Kanban Board & Wallboard"
       description: "Embed a Scrum or Kanban board on your Jira dashboard. Read-only wallboard view, no setup."
-      thumbnail: https://raw.githubusercontent.com/osh0678/jira-board-gadget/main/assets/icon.svg
+      thumbnail: https://se0ng.dev/apps/jira-board-gadget.svg
       render: native
       resource: main
       resolver:
