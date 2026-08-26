@@ -1,3 +1,6 @@
+> **Canonical version:** https://se0ng.dev/legal/terms/
+> This file is a copy kept alongside the source.
+
 # Terms of Service — Board on Dashboard
 
 _Last updated: 26 August 2026_
@@ -45,4 +48,3 @@ acceptance of the revised terms.
 ## 8. Contact
 
 - Email: ping@se0ng.dev
-- GitHub: https://github.com/osh0678/jira-board-gadget/issues
